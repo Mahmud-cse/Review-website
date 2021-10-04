@@ -1,12 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
-import Header from './components/Header/Header'
 import Home from './components/Home/Home';
 import Service from './components/Service/Service';
 import About from './components/About/About';
@@ -18,9 +15,10 @@ import News from './components/News/News';
 function App() {
   return (
     <div>
+      {/* Router */}
+      
         <Router>
           <NavBar />
-          <Header />
         <Switch>
             <Route exact path="/">
               <Home />

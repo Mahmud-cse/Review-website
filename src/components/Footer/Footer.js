@@ -5,7 +5,8 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <Container className="mt-5">
+        // container
+        <Container className="pt-5 mb-5">
         <Row>
             <Col lg="4">
                 <div className="mb-5">
@@ -18,6 +19,7 @@ const Footer = () => {
                 </div>
             </Col>
             
+            {/* col */}
             <Col lg="8">
                 <Row>
                     <Col lg="4">

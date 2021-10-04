@@ -1,0 +1,76 @@
+[
+        {
+            "idMeal": "52795",
+            "strMeal": "Chicken Handi",
+            "strCategory": "Chicken",
+            "strArea": "Indian",
+            "strInstructions": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them.",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg",
+            "strYoutube": "https://www.youtube.com/watch?v=IO0issT0Rmc"
+        },
+        {
+            "idMeal": "52956",
+            "strMeal": "Chicken Congee",
+            "strCategory": "Chicken",
+            "strArea": "Chinese",
+            "strInstructions": "STEP 1 - MARINATING THE CHICKEN In a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well. Set the chicken aside.",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+            "strYoutube": "https://www.youtube.com/watch?v=kqEfk801E94"
+        },
+        {
+            "idMeal": "52831",
+            "strMeal": "Chicken Karaage",
+            "strCategory": "Chicken",
+            "strArea": "Japanese",
+            "strInstructions": "Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly.",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg",
+            "strYoutube": "https://www.youtube.com/watch?v=XivddFddthc"
+        },
+        {
+            "idMeal": "52920",
+            "strMeal": "Chicken Marengo",
+            "strCategory": "Chicken",
+            "strArea": "French",
+            "strInstructions": "Heat the oil in a large flameproof casserole dish and stir-fry the mushrooms until they start to soften. Add the chicken legs and cook.",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qpxvuq1511798906.jpg",
+            "strYoutube": "https://www.youtube.com/watch?v=U33HYUr-0Fw"
+        },
+        {
+            "idMeal": "52806",
+            "strMeal": "Tandoori chicken",
+            "strCategory": "Chicken",
+            "strArea": "Indian",
+            "strInstructions": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+            "strTags": "Spicy,Meat",
+            "strYoutube": "https://www.youtube.com/watch?v=-CKvt1KNU74"
+        },
+        {
+            "idMeal": "52850",
+            "strMeal": "Chicken Couscous",
+            "strCategory": "Chicken",
+            "strArea": "Moroccan",
+            "strInstructions": "Heat the olive oil in a large frying pan and cook the onion for 1-2 mins just until softened. Add the chicken and fry for 7-10 mins until cooked through.",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/qxytrx1511304021.jpg",
+            "strYoutube": "https://www.youtube.com/watch?v=GZQGy9oscVk"
+        },
+        {
+            "idMeal": "52945",
+            "strMeal": "Kung Pao Chicken",
+            "strCategory": "Chicken",
+            "strArea": "Chinese",
+            "strInstructions": "Combine the sake or rice wine, soy sauce, sesame oil and cornflour dissolved in water. Divide mixture in half.",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+            "strYoutube": "https://www.youtube.com/watch?v=QqdcCHQlOe0"
+        },
+        {
+            "idMeal": "52934",
+            "strMeal": "Chicken Basquaise",
+            "strCategory": "Chicken",
+            "strArea": "French",
+            "strInstructions": "Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook. Heat the butter and 3 tbsp olive oil in a flameproof casserole or large frying pan.",
+            "strMealThumb": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+            "strTags": "Meat",
+            "strYoutube": "https://www.youtube.com/watch?v=emfm6TwsVhg"
+        }
+]
